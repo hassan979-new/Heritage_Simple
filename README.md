@@ -117,6 +117,6 @@ Classe Contractuel hérite de Employe :
 ## 🧑‍💻 Author
 
 - 👤 Agouram Hassan
-- 🏫 Fondamentaux et Concepts Avancés de la Programmation Java – TP1
+- 🏫 Programmation orientée objet : C++
 - 🎓 Instructor	Mr.LACHGAR
 - 📅 25	October 2025
