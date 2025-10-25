@@ -98,12 +98,13 @@ Classe Contractuel hérite de Employe :
 ## 🖥️ Example Execution
 
 ### Classe Personne et Etudiant : 
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/1317c090-6fd9-43a8-aa3f-231c9fa970d3" />
 ### Compte bancaire :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/835b074a-1e3b-4ab7-a809-09d37d40b317" />
 ### Hiérarchie de produits :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/f1defdfd-eb75-4b14-8846-1c8a5ba59817" />
 ### Système de gestion d'employés :
+- <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/096a6377-1e6f-410f-a66d-84c665d8b6ff" />
 ## 💡 Concepts Practiced
 
 - L’héritage pour structurer les relations entre classes
